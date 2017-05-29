@@ -62,3 +62,13 @@
 
 div.panel:not(.panel-success) .ndb-success-message {display: none;}
 div.panel:not(.panel-danger) .ndb-success-danger {display: none;}
+
+.settings
+{
+    position: absolute; 
+    top:0px; 
+    right:0px; 
+    margin: 10px; 
+    cursor: pointer; 
+    cursor: hand;
+}
